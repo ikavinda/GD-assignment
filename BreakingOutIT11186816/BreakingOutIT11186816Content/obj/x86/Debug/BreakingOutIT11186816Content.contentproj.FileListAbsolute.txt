@@ -1,0 +1,3 @@
+e:\users\ishan\documents\visual studio 2010\Projects\BreakingOutIT11186816\BreakingOutIT11186816\BreakingOutIT11186816Content\obj\x86\Debug\BreakingOutIT11186816Content.contentprojResolveAssemblyReference.cache
+E:\Users\Ishan\Documents\Visual Studio 2013\Projects\BreakingOutIT11186816 - Copy\BreakingOutIT11186816\BreakingOutIT11186816Content\obj\x86\Debug\BreakingOutIT11186816Content.contentprojResolveAssemblyReference.cache
+E:\Users\Ishan\Documents\Visual Studio 2013\Projects\BreakingOutIT11186816\BreakingOutIT11186816\BreakingOutIT11186816Content\obj\x86\Debug\BreakingOutIT11186816Content.contentprojResolveAssemblyReference.cache
